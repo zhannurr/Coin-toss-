@@ -1,2 +1,1 @@
-Coin toss with Pygame.
-iggufhnginrgv
+Coin toss with Pygame library
